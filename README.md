@@ -1,6 +1,10 @@
 
 This project demonstrates a "what-if" scenario tool for explaining model predictions.
 
+![model whatif](model_whatif_screenshot.png)
+
+![model overview](model_overview_screenshot.png)
+
 ### Data
 
 The data comes from a fictional retail banking dataset that includes a set of credit card transactions labelled with a fraud indicator. For details see: go/bq-compete-demo
